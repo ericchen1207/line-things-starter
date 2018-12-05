@@ -1,8 +1,8 @@
 // User service UUID: Change this to your generated service UUID
-const USER_SERVICE_UUID         = '00001822-0000-1000-8000-00805f9b34fb'; // LED, Button
+const USER_SERVICE_UUID         = '98979606-2483-411b-9608-4f8c4d160afe'; // LED, Button
 // User service characteristics
-const LED_CHARACTERISTIC_UUID   = '00002a5e-0000-1000-8000-00805f9b34fb';
-const BTN_CHARACTERISTIC_UUID   = '00002a5e-0000-1000-8000-00805f9b34fb';
+const LED_CHARACTERISTIC_UUID   = 'E9062E71-9E62-4BC6-B0D3-35CDCD9B027B';
+const BTN_CHARACTERISTIC_UUID   = '62FBD229-6EDD-4D1A-B554-5C4E1BB29169';
 
 // PSDI Service UUID: Fixed value for Developer Trial
 const PSDI_SERVICE_UUID         = 'E625601E-9E55-4597-A598-76018A0D293D'; // Device ID
